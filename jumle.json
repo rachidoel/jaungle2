@@ -1,12 +1,12 @@
 bannerIDBegin      bannerIDLast
-interstitialIDBeginca-app-pub-3940256099942544/1033000000interstitialIDLast
-rewardIDBeginca-app-pub-3940256099942544/5224354917rewardIDlast
+interstitialIDBegin            interstitialIDLast
+rewardIDBegin           rewardIDlast
 
 FANbannerIDBegin             FANbannerIDLast
 FANinterstitialIDBegin        FANinterstitialIDLast
 FANrewardIDBegin        FANrewardIDLast
 
-unityIDBegin5204951unityIDLast
+UnityAppIdIDBegin5204951UnityAppIdIDLast
 unitybannerIDBegin                   unitybannerIDLast
 unityinterstitialIDBeginInterstitial_AndroidunityinterstitialIDLast
 unityrewardIDBeginRewarded_AndroidunityrewardIDLast	
@@ -18,7 +18,7 @@ AplovininterstitialIDBegin54a0e994a79d1e1eAplovininterstitialIDLast
 AplovinrewardIDBegin0d64de30c1917d92AplovinrewardIDLast	
 
 
-irssdkIDBeginxxxxxxxxxxxxxxxxxxxxirssdkIDLast
-irsbannerIDBeginxxxxxxxxxxxxxxxxxxxxirsbannerIDLast
-irsinterstitialIDBeginxxxxxxxxxxxxxxxxxxxxirsinterstitialIDLast
-irsrewardIDBeginxxxxxxxxxxxxxxxxxxxxirsrewardIDLast	
+irssdkIDBegin          irssdkIDLast
+irsbannerIDBegin           irsbannerIDLast
+irsinterstitialIDBegin          irsinterstitialIDLast
+irsrewardIDBegin          irsrewardIDLast	
